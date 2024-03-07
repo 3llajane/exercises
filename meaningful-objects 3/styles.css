@@ -1,0 +1,57 @@
+body{
+    background-color: rgba(153, 47, 95, 0.784);
+    color: white;
+}
+
+a{
+    color: white;
+}
+
+a:visited{
+    color: white;
+}
+
+.fariba{
+    position: absolute;
+    top: 170px;
+    left: 230px;
+}
+
+.shoes{
+    position: absolute;
+    top: 100px;
+    left: 600px;
+}
+
+.lamp{
+    position: absolute;
+    top: 150px;
+    left: 1000px;
+}
+
+.painting{
+    position: absolute;
+    top: 500px;
+    left: 1000px;
+}
+
+.poster{
+    position: absolute;
+    top: 600px;
+    left: 600px;
+}
+
+.camera{
+    position: absolute;
+    top: 450px;
+    left: 275px;
+}
+
+.description{
+    position: static;
+    padding-top: 300px;
+    margin: auto;
+    width: 200px;
+    text-align: center;
+}
+

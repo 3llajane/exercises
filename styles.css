@@ -1,0 +1,24 @@
+body{
+    font-size: 32px;
+    font-family: "Roboto Mono", monospace;
+    color: rgb(247, 20, 152);
+    background-color: rosybrown;
+}
+
+.container{
+    padding-top: 200px;
+    width: 40%;
+    margin: auto;
+}
+
+a:visited{
+    color: rgb(253, 116, 180);
+}
+
+a{
+    color: rgb(253, 231, 235);
+}
+
+li{
+    list-style: none;
+}
